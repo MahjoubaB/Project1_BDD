@@ -1,0 +1,13 @@
+---
+- name: 'Je suis connecté '
+  uid: e55ff008-1e35-421d-94b1-45aba4ac2d8d
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: je clic sur ajouter bouton
+  uid: 057d137f-ba9b-49e3-809f-9b3cd34ffbe2
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: la formulaire s'affiche
+  uid: 5c174920-3f2f-4e96-aab4-7ed946f2178e
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
